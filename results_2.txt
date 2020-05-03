@@ -1,0 +1,32 @@
+name: John
+birthday: 18-09-1968
+address: 2 Fairmount St, Dulwich Hill, NSW 2203
+
+name: Michael Willianm
+birthday: 03-09-2008
+address: 37 Barton Ave, Haberfield, NSW 2045
+
+name: Patricia Davies
+birthday: 25-12-1975
+
+name: Linda Evans
+birthday: 22-02-1996
+address: 119 Gibbes St, Rockdale, NSW 2216
+
+name: Posephine Esmerelda Bloggs
+birthday: 11-11-1980
+address: 102 Smith St, Summer hill, NSW 2130
+phone: 123456789
+
+name: Posephine Esmerelda Bloggs
+birthday: 12-11-1980
+address: 102 Smith St, Summer hill, NSW 2130
+
+name: Posephine Esmerelda Bloggs
+birthday: 13-11-1980
+address: 102 Smith St, Summer hill, NSW 2130
+phone: 9876543210
+
+name: Posephine Smith
+birthday: 13-11-1980
+address: 60 Morris St, Summer Hill, NSW 2130

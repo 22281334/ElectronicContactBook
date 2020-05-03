@@ -1,0 +1,38 @@
+====== query name Posephine Esmerelda Bloggs ======
+name: Posephine Esmerelda Bloggs
+birthday: 30-10-1960
+address: 102 Smith St, Summer hill, NSW 2130
+
+name: Posephine Esmerelda Bloggs
+birthday: 26-03-1965
+address: 102 Smith St, Summer hill, NSW 2130
+
+name: Posephine Esmerelda Bloggs
+birthday: 05-09-1980
+address: 102 Smith St, Summer hill, NSW 2130
+
+====== end of query name Posephine Esmerelda Bloggs ======
+
+====== query birthday 05-09-1980 ======
+name: James Smith
+birthday: 05-09-1980
+address: 60 Morris St, Summer Hill, NSW 2130
+
+name: Posephine Esmerelda Bloggs
+birthday: 05-09-1980
+address: 102 Smith St, Summer hill, NSW 2130
+
+name: Robert Taylor
+birthday: 05-09-1980
+address: 36 Carrington St, Summer Hill, NSW 2130
+
+====== end of query birthday 05-09-1980 ======
+
+====== query phone 13589634 ======
+name: Patricia Davies
+birthday: 25-12-1975
+address: 61 Gibbes St, Rockdale, NSW 2216
+phone: 13589634
+email: p.davis@fanfare.com.au
+
+====== end of query phone 13589634 ======

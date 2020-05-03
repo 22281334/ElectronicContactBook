@@ -1,0 +1,22 @@
+name: Posephine Esmerelda Bloggs
+birthday: 13-05-1980
+address: 102 Smith St, Summer hill, NSW 2130
+phone: 98765432
+email: j.e.bloggs@gmail.com
+
+name: Jo Bloggs
+birthday: 08-07-1900
+address: 9001 Chester Crescent, Chatswood, NSW 2057
+phone: 88884444
+
+name: Michael Willianm
+birthday: 01-04-1950
+address: 37 Barton Ave, Haberfield, NSW 2045
+phone: 19876245
+email: michael@fanfare.com.au
+
+name: Barbara Wilson
+birthday: 03-01-1988
+address: 64 Lennox St, Rockdale, NSW 2216
+phone: 469832165
+email: b.wilson@fanfare.com.au
