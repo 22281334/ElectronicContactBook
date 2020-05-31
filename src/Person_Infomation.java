@@ -11,8 +11,6 @@ public class Person_Infomation {
     }
 
 
-
-
     public String getName() {
         return name;
     }

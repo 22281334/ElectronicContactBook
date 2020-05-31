@@ -1,8 +1,8 @@
 public class Comp {
     public static void main(String[] args) {
-        Read_File rf=new Read_File();
-        rf.readPhonebook("contacts_2.txt");
-        rf.readPhonebook("instructions_3.txt");
-
+        Phone_Book main=new Phone_Book();
+        main.readPhonebook(args[0]);
+        main.readInstruction(args[1],args[2]);
+        main.printQueryReport(args[3]);
     }
 }
